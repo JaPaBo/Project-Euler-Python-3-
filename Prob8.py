@@ -4,8 +4,7 @@ Created on Mon May 28 16:29:37 2018
 
 @author: JPBDell
 """
-import math
-import time
+
 num_consecutive = 13
 max_product = 0
 
